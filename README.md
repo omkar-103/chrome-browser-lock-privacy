@@ -47,7 +47,7 @@ Use the shortcut to lock the browser session immediately.
 Chrome Browser Lock was created by **Omkar Parelkar**.
 
 - Website: https://www.omkarparelkar.com/
-- LinkedIn: https://www.linkedin.com/in/omkarparelkar/
+- LinkedIn: https://www.linkedin.com/in/omkar-parelkar/
 - Email: reachtoonp@gmail.com
 
 Chrome Browser Lock is an independent project and is not affiliated with or endorsed by Google.
